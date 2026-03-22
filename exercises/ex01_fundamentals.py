@@ -48,7 +48,7 @@ def _():
 
     name = "Lead Ike"  # Replace with your name
     age = 20  # Replace with your age
-    height = 5.8  # Replace with your height
+    height = 5.7  # Replace with your height
     is_student = True  # Change if needed
 
     # Print them out
