@@ -141,7 +141,6 @@ def _(pl, students):
         .alias("performance_category")
     )
     print(students_categorized.head) 
-
     return
 
 
